@@ -2420,5 +2420,10 @@ input, select, textarea {
 				margin-top: 0;
 				padding: 3em 0 1em 0;
 			}
+         #curvedLoop {
+                width: 100%;
+                height: 100px;
+                  overflow: hidden;
+                    }
 
 	}
